@@ -96,6 +96,7 @@ body {
   font-weight: 900;
   text-align: center;
   letter-spacing: 0.06em;
+  text-transform: uppercase;
   font-size: 2.75em;
   line-height: 1.26em;
 }
