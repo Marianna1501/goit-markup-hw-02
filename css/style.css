@@ -189,6 +189,7 @@ body {
   letter-spacing: 0.03em;
   font-weight: 500;
   padding: 6px 22px;
+  border: none;
 }
 .btn-style:focus,
 .btn-style:hover {
